@@ -1,5 +1,6 @@
-# POM Design Pattern
-Prepare test framework using "Page Object Model" design pattern and setup framework layer and test layer.
+# POM Design Pattern part1
+- Prepare test framework using "Page Object Model" design pattern and setup framework layer and test layer.
+- This is part1 of the project and it contains Preparation of Framework with POM design pattern and TestBase
 
 ## Framework layer
 - Framework layer sits on application folder and each class represents a page of the product under test.
